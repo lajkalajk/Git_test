@@ -1,5 +1,5 @@
 #hi﻿
-Console.WriteLine("ahoj");
+Console.WriteLine("aho");
 
 
 
