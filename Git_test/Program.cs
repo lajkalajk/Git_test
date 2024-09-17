@@ -6,9 +6,9 @@ internal class Program
         Console.WriteLine("ahoi");
         Console.WriteLine("aho");
 
-        Console.WriteLine("2 + 2 = " + Add(2, 2));
+        Console.WriteLine("23+ 27 = " + Add(2, 2));
         Console.WriteLine("2 - 2 = " + Subtract(2, 2));
-        Console.WriteLine("2 * 2 = " + Multiply(2, 2));
+        Console.WriteLine("3 * 8 = " + Multiply(2, 2));
     }
 
     public static int Add(int x, int y)
