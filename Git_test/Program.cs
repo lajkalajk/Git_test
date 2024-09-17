@@ -2,7 +2,7 @@ internal class Program
 {
     private static void Main(string[] args)
     {
-        //hi﻿
+        //hi﻿ hi
         Console.WriteLine("ahoi");
         Console.WriteLine("aho");
 
