@@ -5,7 +5,13 @@ internal class Program
         //hi﻿
         Console.WriteLine("ahoi");
         Console.WriteLine("aho");
-        //hello
+
+        Console.WriteLine("2 + 2 = " + Add(2, 2));
+    }
+
+    public static int Add(int x, int y)
+    {
+        return x + y;
     }
 }
 
