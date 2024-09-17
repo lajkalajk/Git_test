@@ -7,7 +7,7 @@ internal class Program
         Console.WriteLine("aho");
 
         Console.WriteLine("2 + 2 = " + Add(2, 2));
-        Console.WriteLine("2 - 2 = " + Add(2, 2));
+        Console.WriteLine("2 - 2 = " + Subtract(2, 2));
     }
 
     public static int Add(int x, int y)
