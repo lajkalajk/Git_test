@@ -3,8 +3,8 @@ internal class Program
     private static void Main(string[] args)
     {
         //hi﻿ hi
-        Console.WriteLine("ahoi");
-        Console.WriteLine("aho");
+        Console.WriteLine("ahoj");
+        Console.WriteLine("ahoj");
 
         Console.WriteLine("23 + 27 = " + Add(23, 27));
         Console.WriteLine("3 - 2 = " + Subtract(3, 2));
