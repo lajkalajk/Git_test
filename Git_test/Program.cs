@@ -7,7 +7,7 @@ internal class Program
         Console.WriteLine("aho");
 
         Console.WriteLine("23 + 27 = " + Add(23, 27));
-        Console.WriteLine("2 - 2 = " + Subtract(3, 2));
+        Console.WriteLine("3 - 2 = " + Subtract(3, 2));
         Console.WriteLine("3 * 8 = " + Multiply(3, 8));
     }
 
